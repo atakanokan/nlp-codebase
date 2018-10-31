@@ -11,3 +11,5 @@ param_val_losses_adam_lemma.p copy
 *.p copy
 *.p copy 2
 *.p copy 3
+*.tsv
+*.zip
